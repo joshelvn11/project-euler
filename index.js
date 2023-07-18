@@ -29,4 +29,4 @@ function largestPrimeFactor(number) {
   return primeFactors;
 }
 
-console.log(largestPrimeFactor(60085147));
+console.log(largestPrimeFactor(600847));
